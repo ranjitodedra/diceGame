@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+    background-color: rgb(44, 44, 44);
+    color: rgb(55, 176, 106);
+}
+
+img {
+    height: 50%;
+    width: 50%;
+}
+
+h1 {
+    font-size: 5rem;
+}
+
+h2{
+    font-size: 2rem;
+}
+
+p{
+    color: #fff;
+}
+
+table {
+    width: 70%;
+}
+
+td {
+    padding: 10%;
+    }
+
+.dicetab {
+    margin: 5% auto;
+    }
+
+#game {
+    padding: 2% 20%;
+}
+
