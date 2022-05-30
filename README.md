@@ -8,5 +8,6 @@
 
 - [take look](https://ranjitodedra.github.io/diceGame/)
 
-images
-![image](https://github.com/ranjitodedra/diceGame/blob/main/images/homePageImage.png)
+- GUI Image
+
+![image](https://github.com/ranjitodedra/diceGame/blob/main/images/diceGUI.png)
